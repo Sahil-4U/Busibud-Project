@@ -1,0 +1,12 @@
+center img {
+  margin: 2%;
+}
+center span {
+  margin-right: 5%;
+  font-family: Segoe UI;
+  font-weight: 600;
+}
+center span .down_arrow {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 300;
+}/*# sourceMappingURL=style.css.map */
