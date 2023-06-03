@@ -74,4 +74,16 @@ center span .down_arrow {
 .card-rectange-box .card-4-image-1 {
   width: 4rem;
   height: 4rem;
+}
+.card-rectange-box .card-1 {
+  width: 22.7rem;
+  border-radius: 2rem;
+}
+.card-rectange-box .card-1 .star-image {
+  width: 1rem;
+  height: inherit;
+}
+
+.card-6-heading {
+  margin: 20rem;
 }/*# sourceMappingURL=style.css.map */
