@@ -63,11 +63,15 @@ center {
   }
 }
 // card-2
-.container{
+.card_2{
+  
+  .container{
     .image-3{
         width: 11.7rem;
     }
 }
+}
+
 // card-4
 .card_4{
   margin-top: 20%;
@@ -105,4 +109,18 @@ center {
   // width: 100vw;
   margin-top: 20rem;
   height: 20rem;
+}
+
+// media queries
+@media screen and (max-width:768px) {
+  .header{
+    flex-wrap: wrap;
+  }
+  .card_2{
+    flex-wrap: wrap;
+  }
+  .card-6-heading{
+    margin-top: 60rem;
+   padding-right: 1rem;
+  }
 }
